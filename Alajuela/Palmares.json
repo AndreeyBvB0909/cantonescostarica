@@ -1,0 +1,37 @@
+{
+    "Palmares": {
+        "1": "Santa Fe",
+        "2": "San Vicente"
+      },
+      "Zaragoza": {
+        "1": "Cocaleca",
+        "2": "Quebrada",
+        "3": "Rincón",
+        "4": "Rincón de Zaragoza",
+        "5": "Vargas",
+        "6": "Vásquez"
+      },
+      "Buenos Aires": {
+        "1": "Bajo Cabra",
+        "2": "Barreal",
+        "3": "Tres Marías",
+        "4": "Valle",
+        "5": "Victoria",
+        "6": "Calle Ramírez"
+      },
+      "Santiago": {
+        "1": "Pinos"
+      },
+      "Candelaria": {
+        "1": "Pinos"
+      },
+      "Esquípulas": {
+        "1": "Calle Roble",
+        "2": "Cocaleca",
+        "3": "Peraza",
+        "4": "Rincón de Salas"
+      },
+      "La Granja": {
+        "1": "Amistad"
+      }
+}
