@@ -1,0 +1,64 @@
+{
+    "Atenas": {
+    "1": "Ángeles",
+    "2": "Atenea",
+    "3": "Boquerón",
+    "4": "Escorpio",
+    "5": "Güizaro",
+    "6": "Oásis",
+    "7": "Olivo",
+    "8": "Matías"
+  },
+  "Jesús": {
+    "1": "Guacalillo",
+    "2": "Sabanalarga",
+    "3": "San Vicente",
+    "4": "Barroeta",
+    "5": "Boca del Monte",
+    "6": "Cuajiniquil",
+    "7": "Estanquillo",
+    "8": "Pato de Agua"
+  },
+  "Mercedes": {
+    "1": "Cajón",
+    "2": "Callao",
+    "3": "Plancillo",
+    "4": "Plazoleta"
+  },
+  "San Isidro": {
+    "1": "Alto Naranjo",
+    "2": "Bajo Cacao",
+    "3": "Morazán",
+    "4": "Pato de Agua",
+    "5": "Pavas",
+    "6": "Rincón"
+  },
+  "Concepción": {
+    "1": "Río Grande",
+    "2": "Balsa",
+    "3": "Calle Garita",
+    "4": "Coyoles",
+    "5": "Pan de Azúcar",
+    "6": "Tornos"
+  },
+  "San José": {
+    "1": "Alto Cima",
+    "2": "Alto López",
+    "3": "Legua",
+    "4": "San José Norte",
+    "5": "Torunes",
+    "6": "Vainilla"
+  },
+  "Santa Eulalia": {
+    "1": "Rincón Rodríguez"
+  },
+  "Escobal": {
+    "1": "Cerrillo",
+    "2": "Guácimos",
+    "3": "Kilómetro 51",
+    "4": "Lapas",
+    "5": "Mangos",
+    "6": "Quebradas",
+    "7": "Vuelta Herrera"
+  }
+}
