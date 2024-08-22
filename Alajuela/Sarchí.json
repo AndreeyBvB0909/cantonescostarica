@@ -1,0 +1,35 @@
+{
+  "Sarchí Norte": {
+    "1": "Ángeles",
+    "2": "Bajo Raimundo",
+    "3": "Canto",
+    "4": "Eva",
+    "5": "Luisa",
+    "6": "San Rafael",
+    "7": "Sahinal"
+  },
+  "Sarchí Sur": {
+    "1": "Alto Castro",
+    "2": "Bajo Trapiche",
+    "3": "Coopeoctava",
+    "4": "Ranera",
+    "5": "Ratoncillal",
+    "6": "Rincón de Alpízar",
+    "7": "Rincón de Ulate",
+    "8": "San Miguel"
+  },
+  "Toro Amarillo": {
+    "1": "Alto Palomo"
+  },
+  "San Pedro": {
+    "1": "Castro",
+    "2": "Concha",
+    "3": "Pueblo Seco",
+    "4": "Talolinga",
+    "5": "Trojas"
+  },
+  "Rodríguez": {
+    "1": "Bambú",
+    "2": "Sabanilla"
+  }
+}
