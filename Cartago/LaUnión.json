@@ -1,0 +1,62 @@
+{
+  "Tres Rios": {
+    "1": "Antigua",
+    "2": "Villas"
+  },
+  "San Diego": {
+    "1": "Eulalia",
+    "2": "Florencio del Castillo",
+    "3": "Jirales",
+    "4": "Mariana",
+    "5": "Tacora",
+    "6": "Rincón Mesén",
+    "7": "Santiago del Monte"
+  },
+  "San Juan": {
+    "1": "Araucarias",
+    "2": "Danza del Sol",
+    "3": "Herrán",
+    "4": "Loma Verde",
+    "5": "Unión",
+    "6": "Villas de Ayarco"
+  },
+  "San Rafael": {
+    "1": "Carpintera",
+    "2": "San Miguel",
+    "3": "San Vicente",
+    "4": "Pilarica",
+    "5": "Quebrada del Fierro",
+    "6": "Fierro",
+    "7": "Yerbabuena"
+  },
+  "Concepción": {
+    "1": "Cima",
+    "2": "Cuadrante",
+    "3": "Lirios",
+    "4": "Llanos de Concepción",
+    "5": "Naranjal",
+    "6": "Poró",
+    "7": "Salitrillo",
+    "8": "San Francisco",
+    "9": "San Josecito"
+  },
+  "Dulce Nombre": {
+    "1": "Alto del Carmen",
+    "2": "Tirrá"
+  },
+  "San Ramón": {
+    "1": "Bellomonte",
+    "2": "Cerrillo",
+    "3": "Cumbres",
+    "4": "Holandés",
+    "5": "Mansiones",
+    "6": "Montaña Rusa",
+    "7": "Naranjal",
+    "8": "San Josecito"
+  },
+  "Rio Azul": {
+    "1": "Lindavista",
+    "2": "Quebradas",
+    "3": "Rincón Mesén"
+  }
+}
