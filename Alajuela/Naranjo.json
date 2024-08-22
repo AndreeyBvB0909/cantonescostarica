@@ -1,0 +1,84 @@
+{
+    "Naranjo": {
+    "1": "Bajo Pilas",
+    "2": "Belén",
+    "3": "Caña Dura",
+    "4": "Gradas",
+    "5": "María Auxiliadora",
+    "6": "Muro",
+    "7": "Pueblo Nuevo",
+    "8": "Sacramento",
+    "9": "San Lucas",
+    "10": "San Rafael",
+    "11": "Candelaria",
+    "12": "Cantarrana",
+    "13": "Cinco Esquinas",
+    "14": "Ciprés",
+    "15": "Común",
+    "16": "Dulce Nombre"
+  },
+  "San Miguel": {
+    "1": "Planes",
+    "2": "Bajo Seevers",
+    "3": "Bajos",
+    "4": "Palmas",
+    "5": "Quesera",
+    "6": "San Francisco",
+    "7": "San Miguel Oeste"
+  },
+  "San José": {
+    "1": "Barranca",
+    "2": "Cañuela Arriba",
+    "3": "Cuesta Venada",
+    "4": "Desamparados",
+    "5": "Isla",
+    "6": "San Antonio de Barranca",
+    "7": "San Pedro",
+    "8": "Solís",
+    "9": "Vuelta San Gerardo"
+  },
+  "Cirrí Sur": {
+    "1": "Bajo Arrieta",
+    "2": "Bajo Valverde",
+    "3": "Bajo Zúñiga",
+    "4": "Cruce",
+    "5": "Isla Cocora",
+    "6": "Lourdes",
+    "7": "Llano Bonito",
+    "8": "Llano Bonito Sur",
+    "9": "Palmita",
+    "10": "Quebrada Honda",
+    "11": "Rincón",
+    "12": "Solís",
+    "13": "Zapote"
+  },
+  "San Jerónimo": {
+    "1": "Puebla",
+    "2": "Robles",
+    "3": "Tacacal"
+  },
+  "San Juan": {
+    "1": "Bajo Murciélago",
+    "2": "Cueva",
+    "3": "Guarumal",
+    "4": "Rincón Elizondo",
+    "5": "San Antonio",
+    "6": "Yoses"
+  },
+  "El Rosario": {
+    "1": "Pérez",
+    "2": "Hornos",
+    "3": "Llano",
+    "4": "Santa Margarita",
+    "5": "Vistas del Valle"
+  },
+  "Palmitos": {
+    "1": "Alto Murillo",
+    "2": "Alto Palmas",
+    "3": "Cantarrana",
+    "4": "Cinco Esquinas",
+    "5": "Concepción",
+    "6": "Roquillo",
+    "7": "San Roque"
+  }
+}
