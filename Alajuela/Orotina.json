@@ -1,0 +1,57 @@
+{
+  "Orotina": {
+    "1": "Aguacate",
+    "2": "Arboleda",
+    "3": "Carmen",
+    "4": "Cortezal",
+    "5": "Cuatro Esquinas Norte",
+    "6": "Jesús",
+    "7": "Kilómetro",
+    "8": "López",
+    "9": "Miraflores",
+    "10": "Rastro Viejo",
+    "11": "San Rafael",
+    "12": "San Vicente",
+    "13": "Tres Marías",
+    "14": "Villa Los Reyes",
+    "15": "Alto Vindas",
+    "16": "Esperanza",
+    "17": "Tigre"
+  },
+  "El Mastate": {
+    "1": "Cuatro Esquinas Este",
+    "2": "Piedra Azul",
+    "3": "Guayabal"
+  },
+  "Hacienda Vieja": {
+    "1": "Marichal",
+    "2": "Concepción",
+    "3": "Dantas"
+  },
+  "Coyolar": {
+    "1": "Corazón de María",
+    "2": "Bajos del Coyote",
+    "3": "Cebadilla",
+    "4": "Guápiles",
+    "5": "Limonal",
+    "6": "Mangos",
+    "7": "Mollejones",
+    "8": "Piedras de Fuego",
+    "9": "Pozón",
+    "10": "San Jerónimo",
+    "11": "Santa Rita"
+  },
+  "La Ceiba": {
+    "1": "Angostura Matamoros",
+    "2": "Cascajal",
+    "3": "Cuesta Pitahaya",
+    "4": "Guácimo",
+    "5": "Hidalgo",
+    "6": "Kilómetro 81",
+    "7": "Machuca",
+    "8": "Matamoros",
+    "9": "Túnel",
+    "10": "Uvita",
+    "11": "Zapote"
+  }
+}
