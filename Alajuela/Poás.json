@@ -1,0 +1,43 @@
+{
+  "San Pedro": {
+    "1": "Santa Cecilia",
+    "2": "Rastro",
+    "3": "Cerro",
+    "4": "Chilamate",
+    "5": "Hilda",
+    "6": "Sitio",
+    "7": "Zamora"
+  },
+  "San Juan": {
+    "1": "Altura",
+    "2": "Corazón de Jesús",
+    "3": "Guapinol",
+    "4": "Mastate",
+    "5": "San Juan Norte",
+    "6": "Tablones"
+  },
+  "San Rafael": {
+    "1": "Bajo Zamora",
+    "2": "Churuca",
+    "3": "Guatuza",
+    "4": "Monte",
+    "5": "Potrero Chiquito",
+    "6": "Santa Rosa",
+    "7": "Sitio",
+    "8": "Solís",
+    "9": "Tablones",
+    "10": "Volcán"
+  },
+  "Carrillos": {
+    "1": "Bajo Barahona",
+    "2": "Cuatro Esquinas",
+    "3": "Santísima Trinidad",
+    "4": "Carrillos Alto",
+    "5": "Senda",
+    "6": "Sonora"
+  },
+  "Sabana Redonda": {
+    "1": "Altura",
+    "2": "Bajos del Tigre"
+  }
+}
