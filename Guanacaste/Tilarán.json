@@ -1,0 +1,67 @@
+{
+  "Tilarán": {
+    "1": "Cabra",
+    "2": "Carmen",
+    "3": "Juan XXIII",
+    "4": "Lomalinda",
+    "5": "Cuatro Esquinas",
+    "6": "Chiripa",
+    "7": "Piamonte",
+    "8": "Río Chiquito",
+    "9": "San Luis",
+    "10": "Tejona",
+    "11": "Tres Esquinas"
+  },
+  "Quebrada Grande": {
+    "1": "Barrionuevo",
+    "2": "Cabeceras de Cañas",
+    "3": "Campos de Oro",
+    "4": "Dos de Tilarán",
+    "5": "Esperanza",
+    "6": "Florida",
+    "7": "Monte Olivos",
+    "8": "Nubes",
+    "9": "San Miguel",
+    "10": "Turín",
+    "11": "Vueltas"
+  },
+  "Tronadora": {
+    "1": "Arenal Viejo",
+    "2": "Colonia Menonita",
+    "3": "Río Chiquito Abajo",
+    "4": "Silencio"
+  },
+  "Santa Rosa": {
+    "1": "Aguilares",
+    "2": "Campos Azules",
+    "3": "Montes de Oro",
+    "4": "Naranjos Agrios",
+    "5": "Palma",
+    "6": "Quebrada Azul",
+    "7": "Ranchitos",
+    "8": "Santa Rosa"
+  },
+  "Líbano": {
+    "1": "Alto Cartago",
+    "2": "Maravilla",
+    "3": "San José",
+    "4": "Solania"
+  },
+  "Tierras Morenas": {
+    "1": "Aguacate",
+    "2": "Aguas Gatas",
+    "3": "Bajo Paires",
+    "4": "Guadalajara",
+    "5": "Montes de Oro",
+    "6": "Paraíso",
+    "7": "Río Piedras",
+    "8": "Sabalito"
+  },
+  "Arenal": {
+    "1": "Mata de Caña",
+    "2": "Sangregado",
+    "3": "San Antonio",
+    "4": "Unión"
+  },
+  "Cabeceras": {}
+}
