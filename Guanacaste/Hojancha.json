@@ -1,0 +1,48 @@
+{
+    "Hojancha": {
+        "1": "Ángeles",
+        "2": "Arena",
+        "3": "Ceiba",
+        "4": "Cuesta Blanca",
+        "5": "Libertad",
+        "6": "Maravilla",
+        "7": "Matambú",
+        "8": "Palo de Jabón",
+        "9": "Pilangosta",
+        "10": "San Juan Bosco",
+        "11": "San Rafael",
+        "12": "Santa Elena",
+        "13": "Varillal"
+      },
+      "Monte Romo": {
+        "1": "Altos del Socorro",
+        "2": "Bajo Saltos",
+        "3": "Cabrera",
+        "4": "Cuesta Roja",
+        "5": "Delicias",
+        "6": "Guapinol",
+        "7": "Loros",
+        "8": "Mercedes",
+        "9": "Palmares",
+        "10": "Río Zapotal",
+        "11": "San Isidro",
+        "12": "Trinidad"
+      },
+      "Puerto Carrillo": {
+        "1": "Angostura",
+        "2": "Arbolito",
+        "3": "Cuesta Malanoche",
+        "4": "Estrada",
+        "5": "Jobo",
+        "6": "Lajas",
+        "7": "Quebrada Bonita",
+        "8": "San Miguel",
+        "9": "Santa María"
+      },
+      "Huacas": {
+        "1": "Avellana",
+        "2": "Pita Rayada",
+        "3": "Río Blanco Oeste",
+        "4": "Tres Quebradas"
+      }
+}
