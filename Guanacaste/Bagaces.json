@@ -1,0 +1,63 @@
+{
+  "Bagaces": {
+    "1": "Lima",
+    "2": "Pedro Nolasco",
+    "3": "Redondel",
+    "4": "Aguacaliente",
+    "5": "Arbolito",
+    "6": "Bagatzi",
+    "7": "Brisas",
+    "8": "Bebedero",
+    "9": "Casavieja",
+    "10": "Cofradía",
+    "11": "Colmenar",
+    "12": "Llanos de Cortés",
+    "13": "Mojica",
+    "14": "Montano",
+    "15": "Montenegro",
+    "16": "Piedras",
+    "17": "Pijije",
+    "18": "Plazuela",
+    "19": "Salitral",
+    "20": "Salto",
+    "21": "Santa Rosa"
+  },
+  "La Fortuna": {
+    "1": "Miravalles",
+    "2": "Casavieja",
+    "3": "Cuipilapa",
+    "4": "Giganta",
+    "5": "Hornillas",
+    "6": "Macuá",
+    "7": "Martillete",
+    "8": "Mozotal",
+    "9": "Pozo Azul",
+    "10": "Sagrada Familia",
+    "11": "San Bernardo",
+    "12": "San joaquín",
+    "13": "Santa Cecilia",
+    "14": "Santa Fe",
+    "15": "Santa Rosa",
+    "16": "Unión Ferrer"
+  },
+  "Mogote": {
+    "1": "Los Ángeles",
+    "2": "Oses",
+    "3": "Barro de Olla",
+    "4": "Horcones",
+    "5": "La Ese",
+    "6": "Limonal",
+    "7": "Manglar",
+    "8": "Mochadero",
+    "9": "Pueblo Nuevo",
+    "10": "Rincón de la Cruz",
+    "11": "San Isidro de Limonal",
+    "12": "San Jorge",
+    "13": "San Pedro",
+    "14": "Torno"
+  },
+  "Río Naranjo": {
+    "1": "Naranjito",
+    "2": "Río Chiquito"
+  }
+}
