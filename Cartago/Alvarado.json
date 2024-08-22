@@ -1,0 +1,33 @@
+{
+  "Pacayas": {
+    "1": "Lourdes",
+    "2": "Patalillo",
+    "3": "Buenavista",
+    "4": "Buenos Aires",
+    "5": "Charcalillos",
+    "6": "Encierrillo",
+    "7": "Los Pinos",
+    "8": "Llano Grande",
+    "9": "Pascón",
+    "10": "Pastora",
+    "11": "Plantón",
+    "12": "San Martín",
+    "13": "San Rafael de Irazú"
+  },
+  "Cervantes": {
+    "1": "Bajo Malanga",
+    "2": "Aguas",
+    "3": "Bajo Solano",
+    "4": "Ciudad del Cielo",
+    "5": "Descanso",
+    "6": "El Alto",
+    "7": "Mata de Guineo",
+    "8": "Monticel"
+  },
+  "Capellades": {
+    "1": "Bajo Abarca",
+    "2": "Lourdes",
+    "3": "Coliblanco",
+    "4": "Santa Teresa"
+  }
+}
