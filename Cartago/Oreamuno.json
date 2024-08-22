@@ -1,0 +1,49 @@
+{
+  "San Rafael": {
+    "1": "Alto Cerrillos",
+    "2": "Artavia",
+    "3": "Barrial",
+    "4": "Bosque",
+    "5": "Breñas",
+    "6": "Caballo Blanco",
+    "7": "Chircagre",
+    "8": "Flores",
+    "9": "Gamboa",
+    "10": "José Jesús Méndez",
+    "11": "Juan Pablo II",
+    "12": "Sagrada Familia",
+    "13": "Monseñor Sanabria",
+    "14": "Cuesta Chinchilla",
+    "15": "Llano"
+  },
+  "Cot": {
+    "1": "Mata de Mora",
+    "2": "Páez",
+    "3": "Paso Ancho",
+    "4": "San Cayetano"
+  },
+  "Potrero Cerrado": {
+    "1": "Maya",
+    "2": "Cruce",
+    "3": "Pisco",
+    "4": "Sanabria",
+    "5": "San Juan de Chicuá"
+  },
+  "Cipreses": {
+    "1": "Aguas",
+    "2": "Barrionuevo",
+    "3": "Boquerón",
+    "4": "Capira",
+    "5": "Oratorio"
+  },
+  "Santa rosa": {
+    "1": "Cuesta Quemados",
+    "2": "Pasquí",
+    "3": "Platanillal",
+    "4": "San Gerardo",
+    "5": "San Juan",
+    "6": "San Martín",
+    "7": "San Pablo",
+    "8": "Titoral"
+  }
+}
