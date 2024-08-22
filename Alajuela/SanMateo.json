@@ -1,0 +1,36 @@
+{
+    "San Mateo": {
+    "1": "Agua Agria",
+    "2": "Calera",
+    "3": "Cenízaro",
+    "4": "Centeno",
+    "5": "Desamparados",
+    "6": "Dulce Nombre",
+    "7": "Higuito",
+    "8": "Izarco",
+    "9": "Maderal",
+    "10": "Ramadas",
+    "11": "San Juan de Dios"
+  },
+  "Desmonte": {
+    "1": "Cuesta Colorada",
+    "2": "Libertad",
+    "3": "Quebrada Honda",
+    "4": "Limón",
+    "5": "Patio de Agua Norte",
+    "6": "Sacra Familia",
+    "7": "San Juan Uno",
+    "8": "Zapote"
+  },
+  "Jesús María": {
+    "1": "Garabito",
+    "2": "Quebrada Grande",
+    "3": "Quinta"
+  },
+  "Labrador": {
+    "1": "Altamira",
+    "2": "Oricuajo",
+    "3": "Poza redonda",
+    "4": "Quebrada Grande"
+  }
+}
