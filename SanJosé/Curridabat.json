@@ -1,0 +1,43 @@
+{
+  "Curridabat": {
+    "1": "Ahogados",
+    "2": "Aromático",
+    "3": "Cipreses",
+    "4": "Chapultepec",
+    "5": "Dorados",
+    "6": "Guayabos",
+    "7": "Hacienda Vieja",
+    "8": "Hogar",
+    "9": "José María Zeledón",
+    "10": "Laguna",
+    "11": "La Lía",
+    "12": "Mallorca",
+    "13": "María Auxiliadora",
+    "14": "Miramontes",
+    "15": "Nopalera",
+    "16": "Plaza del Sol",
+    "17": "Prado",
+    "18": "San José",
+    "19": "Santa Cecilia",
+    "20": "Tacaco"
+  },
+  "Granadilla": {
+    "1": "Biarquiria",
+    "2": "Eucalipto",
+    "3": "Freses",
+    "4": "Granadilla Norte",
+    "5": "Granadilla Sur",
+    "6": "Montaña Rusa"
+  },
+  "Sanchez": {
+    "1": "Araucaria",
+    "2": "Lomas de Ayarco",
+    "3": "Pinares"
+  },
+  "Tirrases": {
+    "1": "Colina",
+    "2": "Lomas de San Pancracio",
+    "3": "Ponderosa",
+    "4": "Quince de Agosto"
+  }
+}

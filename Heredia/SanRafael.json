@@ -1,0 +1,48 @@
+{
+  "San Rafael": {
+    "1": "Amistad",
+    "2": "Matasano",
+    "3": "Paso Viga"
+  },
+  "San Josecito": {
+    "1": "Bajo Molinos",
+    "2": "Joya",
+    "3": "Matasano",
+    "4": "Peralta",
+    "5": "Santísima Trinidad"
+  },
+  "Santiago": {
+    "1": "Jardines de Roma",
+    "2": "Jardines Universitarios",
+    "3": "Suiza"
+  },
+  "Los Ángeles": {
+    "1": "Paso Viga",
+    "2": "Saca",
+    "3": "Calle Hernández",
+    "4": "Castillo",
+    "5": "Cerro Redondo",
+    "6": "Getsemaní",
+    "7": "Joaquina",
+    "8": "Lobos",
+    "9": "Montecito",
+    "10": "Palmar",
+    "11": "Puente Piedra",
+    "12": "Quintanar de la Sierra",
+    "13": "Uvita"
+  },
+  "Concepción": {
+    "1": "Palenque",
+    "2": "Anonos",
+    "3": "Burial",
+    "4": "Calle Chávez",
+    "5": "Calle Hernández",
+    "6": "Ciénagas",
+    "7": "Charquillo",
+    "8": "Mora",
+    "9": "Pilas",
+    "10": "Puente Piedra",
+    "11": "Tierra Blanca",
+    "12": "Turú"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "San Pablo": {
+    "1": "Alto Poró",
+    "2": "Bolsón",
+    "3": "Purires"
+  },
+  "San Pedro": {
+    "1": "Alto Limón",
+    "2": "Florecilla",
+    "3": "Limón",
+    "4": "Palmar",
+    "5": "Pita Villa Colina"
+  },
+  "San Juan De Mata": {
+    "1": "Bajo Laguna",
+    "2": "El Barro",
+    "3": "Llano Bonito (San Juan de Mata)",
+    "4": "Molenillo",
+    "5": "Paso Agres",
+    "6": "Surtubal",
+    "7": "Tronco Negro"
+  },
+  "San Luis": {
+    "1": "Pital",
+    "2": "Potenciana Arriba",
+    "3": "Quebrada Azul",
+    "4": "San Francisco",
+    "5": "San Rafael"
+  },
+  "Carara": {
+    "1": "Alto Espavel",
+    "2": "Angostura (parte)",
+    "3": "Bijagualito",
+    "4": "Bola",
+    "5": "Carara",
+    "6": "Cima",
+    "7": "Delicias",
+    "8": "El Sur",
+    "9": "Esperanza",
+    "10": "Fila Negra",
+    "11": "Galán",
+    "12": "La Trampa",
+    "13": "Lajas",
+    "14": "Mata de Platano",
+    "15": "Montelimar",
+    "16": "Pacayal",
+    "17": "Pavona",
+    "18": "Quina",
+    "19": "Río Negro",
+    "20": "Río Seco",
+    "21": "San Francisco",
+    "22": "San Gabriel",
+    "23": "San Isidro",
+    "24": "San Jerónimo",
+    "25": "Tulín"
+  }
+}

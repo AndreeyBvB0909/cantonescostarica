@@ -1,0 +1,44 @@
+{
+  "Santo Domingo": {
+    "1": "Santo Domingo Centro"
+  },
+  "San Vicente": {
+    "1": "Barro de Olla",
+    "2": "Calle Don Pedro",
+    "3": "Quintana",
+    "4": "Yurusti"
+  },
+  "San Miguel": {
+    "1": "Canoa",
+    "2": "Castilla",
+    "3": "Cuesta Rojas",
+    "4": "Montero",
+    "5": "Socorro",
+    "6": "Villa Rossi"
+  },
+  "Paracito": {
+    "1": "Represa"
+  },
+  "Santo Tomás": {
+    "1": "Barquero",
+    "2": "Higinia",
+    "3": "Pacífica"
+  },
+  "Santa Rosa": {
+    "1": "La Cooperativa",
+    "2": "Pedro León",
+    "3": "Primero de Mayo",
+    "4": "Quisqueya",
+    "5": "Rinconada",
+    "6": "Valencia"
+  },
+  "Tures": {
+    "1": "Calle Vieja",
+    "2": "Lourdes",
+    "3": "Quebradas"
+  },
+  "Para": {
+    "1": "Caballero",
+    "2": "Canoa"
+  }
+}

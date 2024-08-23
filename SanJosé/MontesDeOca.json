@@ -1,0 +1,59 @@
+{
+  "San Pedro": {
+    "1": "Alhambra",
+    "2": "Azáleas",
+    "3": "Carmiol",
+    "4": "Cedral",
+    "5": "Dent",
+    "6": "Francisco Peralta",
+    "7": "Fuentes",
+    "8": "Granja",
+    "9": "Kezia",
+    "10": "Lourdes",
+    "11": "Monterrey",
+    "12": "Nadori",
+    "13": "Oriente",
+    "14": "Pinto",
+    "15": "Prados del Este",
+    "16": "Roosevelt",
+    "17": "San Gerardo",
+    "18": "Santa Marta",
+    "19": "Saprissa",
+    "20": "Vargas Araya",
+    "21": "Yoses"
+  },
+  "Sabanilla": {
+    "1": "Arboleda",
+    "2": "Bloquera",
+    "3": "Cedros",
+    "4": "El Cristo",
+    "5": "Españolita",
+    "6": "Luciana",
+    "7": "Marsella",
+    "8": "Maravilla",
+    "9": "Rodeo",
+    "10": "Rosales",
+    "11": "San Marino"
+  },
+  "Mercedes": {
+    "1": "Alma Máter",
+    "2": "Damiana",
+    "3": "Dent",
+    "4": "Guaymí",
+    "5": "Paso Hondo",
+    "6": "Paulina"
+  },
+  "San Rafael": {
+    "1": "Alameda",
+    "2": "Andrómeda",
+    "3": "Begonia",
+    "4": "Cuesta Grande",
+    "5": "El Cristo",
+    "6": "Estéfana",
+    "7": "Europa",
+    "8": "Liburgia",
+    "9": "Mansiones",
+    "10": "Maruz",
+    "11": "Salitrillos"
+  }
+}

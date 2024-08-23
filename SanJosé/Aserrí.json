@@ -1,0 +1,74 @@
+{
+  "Aserrí": {
+    "1": "Guatuso",
+    "2": "Mirador",
+    "3": "Alfonso Xlll",
+    "4": "Barro",
+    "5": "Cinco Esquinas",
+    "6": "Corazón de Jesús",
+    "7": "Guapinol",
+    "8": "Las Mercedes",
+    "9": "Lomas de Aserrí",
+    "10": "Lourdes",
+    "11": "María Auxiliadora",
+    "12": "Mesas",
+    "13": "Poás",
+    "14": "Santa Rita",
+    "15": "Sáurez",
+    "16": "Tres Marías",
+    "17": "Vereda"
+  },
+
+  "Tarbaca": {
+    "1": "Bajos de Praga",
+    "2": "Máquina Vieja",
+    "3": "Tigre"
+  },
+  "Vuelta De Jorco": {
+    "1": "Calvario",
+    "2": "Ceiba Alta",
+    "3": "Jocotal",
+    "4": "Legua de Naranjo",
+    "5": "Mangos",
+    "6": "Meseta",
+    "7": "Monte Redondo",
+    "8": "Ojo de Agua",
+    "9": "Rosalía",
+    "10": "Uruca"
+  },
+  "San Gabriel": {
+    "1": "La Fila",
+    "2": "Pueblo Nuevo",
+    "3": "Limonal",
+    "4": "Los Solano",
+    "5": "Rancho Grande",
+    "6": "Salitral",
+    "7": "Tranquerillas",
+    "8": "Trinidad",
+    "9": "Villanueva"
+  },
+  "Legua": {
+    "1": "Alto Buenavista",
+    "2": "Altos del Aguacate",
+    "3": "Bajo Bijagual",
+    "4": "Bajo Máquinas",
+    "5": "Bajo Venegas",
+    "6": "Carmen"
+  },
+  "Monterrey": {
+    "1": "Ojo de Agua",
+    "2": "Portuguez"
+  },
+  "Salitrillos": {
+    "1": "Cinco Esquinas",
+    "2": "Santa Teresita",
+    "3": "Cerro",
+    "4": "Cuesta Grande",
+    "5": "Guinealillo",
+    "6": "Huaso",
+    "7": "Lagunillas",
+    "8": "Palo Blanco",
+    "9": "Quebradas",
+    "10": "Rincón"
+  }
+}
