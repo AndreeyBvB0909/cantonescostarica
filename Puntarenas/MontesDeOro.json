@@ -1,0 +1,38 @@
+{
+  "Miramar": {
+    "1": "Alto Pavones",
+    "2": "Bajo Zamora",
+    "3": "Barbudal",
+    "4": "Bellavista",
+    "5": "Brillante",
+    "6": "Cabuyal",
+    "7": "Delicias",
+    "8": "Fraijanes",
+    "9": "Lagunilla",
+    "10": "Río Seco",
+    "11": "Tajo Alto",
+    "12": "Trinidad",
+    "13": "Zagala Vieja",
+    "14": "Zamora",
+    "15": "Zapotal"
+  },
+  "La Unión": {
+    "1": "Bajo Caliente",
+    "2": "Cedral",
+    "3": "Laguna",
+    "4": "Micas",
+    "5": "Palmital",
+    "6": "San Buenaventura",
+    "7": "Velásquez",
+    "8": "Ventanas",
+    "9": "Zagala Nueva"
+  },
+  "San Isidro": {
+    "1": "Aguabuena",
+    "2": "Ciruelas",
+    "3": "Cuatro Cruces",
+    "4": "Isla",
+    "5": "Santa Rosa",
+    "6": "Tiocinto"
+  }
+}
