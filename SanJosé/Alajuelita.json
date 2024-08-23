@@ -1,0 +1,45 @@
+{
+  "Alajuelita": {
+    "1": "Bellavista",
+    "2": "Chorotega",
+    "3": "Lagunilla",
+    "4": "Macha",
+    "5": "Madrigal"
+  },
+  "San Josecito": {
+    "1": "Aguilar Machado",
+    "2": "Cochea",
+    "3": "El Alto",
+    "4": "Faro del Suroeste",
+    "5": "Filtros",
+    "6": "Pueblo Escondido",
+    "7": "Vistas de Alajuelita"
+  },
+  "San Antonio": {
+    "1": "Caracas",
+    "2": "Cascabela",
+    "3": "Llano",
+    "4": "Piedra de Fuego",
+    "5": "Lámparas"
+  },
+  "Concepción": {
+    "1": "Almendros",
+    "2": "Boca del Monte",
+    "3": "Chirivico",
+    "4": "Monte Alto",
+    "5": "Once de Abril",
+    "6": "Progreso",
+    "7": "Tejar",
+    "8": "Vista de San José",
+    "9": "Vista Real"
+  },
+  "San Felipe": {
+    "1": "Aurora",
+    "2": "Corina Rodríguez",
+    "3": "Esquipulas Dos",
+    "4": "La Guápil",
+    "5": "Peralta",
+    "6": "Verbena",
+    "7": "Palo Campano"
+  }
+}

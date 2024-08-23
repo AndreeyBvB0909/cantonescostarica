@@ -1,0 +1,54 @@
+{
+  "San Juan": {
+    "1": "Acacias",
+    "2": "Arboleda",
+    "3": "Asturias",
+    "4": "Estudiantes",
+    "5": "Florida",
+    "6": "González Truque",
+    "7": "Jesús Jiménez Zamora",
+    "8": "Lindavista",
+    "9": "Rosas",
+    "10": "San Jerónimo",
+    "11": "Santa Eduvigis",
+    "12": "Valle",
+    "13": "Versalles",
+    "14": "Villafranca",
+    "15": "Virginia"
+  },
+  "Cinco Esquinas": {
+    "1": "Bajo Piuses",
+    "2": "Copey",
+    "3": "Leiva Urcuyo",
+    "4": "Lilas",
+    "5": "Lomas del Pinar",
+    "6": "Montecarlo",
+    "7": "Santa Teresa"
+  },
+  "Anselmo Llorente": {
+    "1": "Apolo",
+    "2": "Dalia",
+    "3": "Estancia",
+    "4": "Fletcher",
+    "5": "Franjo",
+    "6": "Jardines de Tibás",
+    "7": "Jardines La Trinidad",
+    "8": "Monterreal",
+    "9": "Palmeras",
+    "10": "Santa Mónica",
+    "11": "Talamanca",
+    "12": "Vergel"
+  },
+  "Leon Xiii": {
+    "1": "Doña Fabiola",
+    "2": "Garabito"
+  },
+  "Colima": {
+    "1": "Anselmo Alvarado",
+    "2": "Balsa",
+    "3": "Cuatro Reinas",
+    "4": "Orquídeas",
+    "5": "Rey",
+    "6": "San Agustín"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "Santa Bárbara": {
+    "1": "Trompezón"
+  },
+  "San Pedro": {
+    "1": "Betania",
+    "2": "Rosales (parte)"
+  },
+  "San Juan": {
+    "1": "Cinco Esquinas",
+    "2": "Lotes Moreira",
+    "3": "San Juan Arriba"
+  },
+  "Jesús": {
+    "1": "Altagracia",
+    "2": "Birrí",
+    "3": "Calle Quirós (parte)",
+    "4": "Catalina",
+    "5": "Común (parte)",
+    "6": "Cuesta Colorada",
+    "7": "Guachipelines",
+    "8": "Guaracha",
+    "9": "Ulises"
+  },
+  "Santo Domingo": {
+    "1": "Amapola",
+    "2": "Cartagos",
+    "3": "Chagüite",
+    "4": "Giralda",
+    "5": "Guararí",
+    "6": "Tranquera"
+  },
+  "Puraba": {
+    "1": "Marías",
+    "2": "Purabá",
+    "3": "San Bosco",
+    "4": "Calle Quirós (parte)",
+    "5": "Común (parte)",
+    "6": "Lajas"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Colón": {
+    "1": "Alhambra",
+    "2": "Cabriola",
+    "3": "Brasil",
+    "4": "Cedral",
+    "5": "Carreras",
+    "6": "Cuesta Achiotal",
+    "7": "Colonia del Prado",
+    "8": "Llano León",
+    "9": "Llano Limón",
+    "10": "Michoacán",
+    "11": "Nuevo Brasil",
+    "12": "Quebrada Honda",
+    "13": "Piñal",
+    "14": "Rodeo",
+    "15": "San Bosco",
+    "16": "Santísima Trinidad",
+    "17": "San Vicente",
+    "18": "Ticufres",
+    "19": "Tablera"
+  },
+  "Guayabo": {
+    "1": "Bajo Claras",
+    "2": "Bajo Morado",
+    "3": "Corrogres",
+    "4": "Monte Negro"
+  },
+  "Tabarcia": {
+    "1": "Bajo Bustamante",
+    "2": "Bajo Lima",
+    "3": "Bajo Loaiza",
+    "4": "Cañas",
+    "5": "Corralar",
+    "6": "Morado",
+    "7": "Piedras Blancas",
+    "8": "Salto"
+  },
+  "Piedras Negras": {
+    "1": "Chile",
+    "2": "Danta",
+    "3": "Palma",
+    "4": "Quebrada Grande"
+  },
+  "Picagres": {
+    "1": "Cordel",
+    "2": "Chucás",
+    "3": "Jateo",
+    "4": "Llano Grande",
+    "5": "Monte Frío"
+  },
+  "Jaris": {
+    "1": "Pito"
+  }
+}

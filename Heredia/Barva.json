@@ -1,0 +1,57 @@
+{
+  "Barva": {
+    "1": "Don Abraham",
+    "2": "San Bartolomé"
+  },
+  "San Pedro": {
+    "1": "Bosque",
+    "2": "Calle Amada",
+    "3": "Calle Los Naranjos",
+    "4": "Espinos",
+    "5": "Máquina",
+    "6": "Mirador",
+    "7": "Morazán",
+    "8": "Puente Salas",
+    "9": "Segura",
+    "10": "Vista Llana"
+  },
+  "San Pablo": {
+    "1": "Barrios (Barva): Cementerio",
+    "2": "Ibís",
+    "3": "Buenavista"
+  },
+  "San Roque": {
+    "1": "Bello Higuerón",
+    "2": "Los Luises",
+    "3": "Plantación",
+    "4": "Pórtico"
+  },
+  "Santa Lucía": {
+    "1": "Doña Iris",
+    "2": "Jardines del Beneficio",
+    "3": "Paso Viga (parte)",
+    "4": "Pedregal",
+    "5": "Getsemaní (parte)",
+    "6": "Palmar (parte)"
+  },
+  "San José de la Montaña": {
+    "1": "Gallito",
+    "2": "Monte Alto",
+    "3": "Cipresal",
+    "4": "Doña Blanca",
+    "5": "Doña Elena",
+    "6": "Higuerón",
+    "7": "Huacalillo",
+    "8": "El Collado",
+    "9": "Meseta",
+    "10": "Paso Llano",
+    "11": "Plan de Birrí",
+    "12": "Porrosatí",
+    "13": "Roblealto",
+    "14": "Sacramento",
+    "15": "San Martín",
+    "16": "San Miguel",
+    "17": "Santa Clara",
+    "18": "Zapata"
+  }
+}

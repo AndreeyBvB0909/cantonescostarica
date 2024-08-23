@@ -1,0 +1,55 @@
+{
+  "Santa Ana": {
+    "1": "Aguas Lindas",
+    "2": "Cabañas",
+    "3": "Casa Blanca",
+    "4": "Lajas",
+    "5": "Obando",
+    "6": "Paso Machete",
+    "7": "San Rafael",
+    "8": "Corrogres",
+    "9": "Pilas"
+  },
+  "Salitral": {
+    "1": "Paso Machete",
+    "2": "Robalillo",
+    "3": "Alto Raicero",
+    "4": "Chirracal",
+    "5": "Matinilla",
+    "6": "Pabellón",
+    "7": "Perico"
+  },
+  "Pozos": {
+    "1": "Alto Palomas",
+    "2": "Concepción",
+    "3": "Cuevas",
+    "4": "Chispa",
+    "5": "Gavilanes",
+    "6": "Honduras",
+    "7": "Lajas",
+    "8": "Lindora",
+    "9": "Manantial",
+    "10": "Real de Pereira",
+    "11": "Valle del Sol"
+  },
+  "Uruca": {
+    "1": "Chimba",
+    "2": "Guapinol",
+    "3": "Mata Grande",
+    "4": "Mina",
+    "5": "Paso Machete",
+    "6": "Río Uruca"
+  },
+  "Piedades": {
+    "1": "Caraña",
+    "2": "Cebadilla",
+    "3": "Finquitas",
+    "4": "Montaña del Sol",
+    "5": "Rincón San Marcos",
+    "6": "Triunfo"
+  },
+  "Brasil": {
+    "1": "Canjel",
+    "2": "Copey"
+  }
+}

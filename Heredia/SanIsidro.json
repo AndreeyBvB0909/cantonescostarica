@@ -1,0 +1,34 @@
+{
+  "San Isidro": {
+    "1": "Calle Cementerio",
+    "2": "Colonia Isidreña",
+    "3": "Cooperativa",
+    "4": "Cristo Rey",
+    "5": "El Volador",
+    "6": "Villaval"
+  },
+  "San José": {
+    "1": "Santa Cruz",
+    "2": "El Arroyo",
+    "3": "Huacalillos",
+    "4": "Santa Cecilia",
+    "5": "Santa Elena",
+    "6": "Trapiche",
+    "7": "Yerbabuena"
+  },
+  "Concepción": {
+    "1": "Alhajas",
+    "2": "Calle Caricias",
+    "3": "Calle Chávez",
+    "4": "Santa Cecilia"
+  },
+  "San Francisco": {
+    "1": "Aguacate",
+    "2": "Astillero",
+    "3": "Quebradas",
+    "4": "Rinconada",
+    "5": "Tierra Blanca",
+    "6": "Vallevistar",
+    "7": "Viento Fresco"
+  }
+}
