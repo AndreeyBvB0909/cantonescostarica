@@ -1,0 +1,64 @@
+{
+  "Espíritu Santo": {
+    "1": "Marañonal",
+    "2": "Mojón",
+    "3": "Tejar",
+    "4": "Gregg",
+    "5": "Humo",
+    "6": "Mojoncito",
+    "7": "Pan de Azúcar"
+  },
+  "San Juan Grande": {
+    "1": "Jocote",
+    "2": "Juanilama",
+    "3": "San Juan Chiquito"
+  },
+  "Macacona": {
+    "1": "Marañonal",
+    "2": "Bruselas",
+    "3": "Guapinol",
+    "4": "Nances",
+    "5": "San Roque"
+  },
+  "San Rafael": {
+    "1": "Alto Corteza",
+    "2": "Barón",
+    "3": "Facio",
+    "4": "Llanada del Cacao",
+    "5": "Maratón"
+  },
+  "San Jerónimo": {
+    "1": "Cerrillos",
+    "2": "Mesetas Abajo",
+    "3": "Mesetas Arriba",
+    "4": "Peña Blanca",
+    "5": "Pretiles",
+    "6": "Quebradas",
+    "7": "Sabana Bonita"
+  },
+  "Caldera": {
+    "1": "Alto de las Mesas",
+    "2": "Artieda",
+    "3": "Caldera",
+    "4": "Cabezas",
+    "5": "Cambalache",
+    "6": "Cascabel",
+    "7": "Corralillo",
+    "8": "Cuesta Jocote",
+    "9": "Figueroa",
+    "10": "Finca Brazo Seco",
+    "11": "Finca Cortijo",
+    "12": "Guardianes de la Piedra",
+    "13": "Hacienda La Moncha",
+    "14": "Hacienda Mata de Guinea",
+    "15": "Hacienda Playa Linda",
+    "16": "Hacienda Salinas",
+    "17": "Jesús María",
+    "18": "Quebrada Honda",
+    "19": "Salinas",
+    "20": "San Antonio",
+    "21": "Silencio",
+    "22": "Tivives",
+    "23": "Villanueva"
+  }
+}
